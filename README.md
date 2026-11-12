@@ -25,3 +25,15 @@ Preservar la versión aprobada, identidad, recursos, secciones y comportamiento.
 3. Recuperar la implementación exacta cuando sea posible.
 4. Si la exportación no existe, reconstruir con fidelidad y documentar las diferencias.
 5. Ejecutar verificaciones y registrar limitaciones antes de declarar recuperación completa.
+
+
+## Implementación recuperada en este repositorio
+
+- `index.html`: portada con música, historia, redes y navegación.
+- `contratar.html`: formulario que prepara mensaje local para WhatsApp; no envía automáticamente.
+- `apoyar.html`: aportaciones expresamente deshabilitadas.
+- `epk.html`: ficha de prensa resumida.
+- `legal-privacidad.html`, `legal-terminos.html`, `legal-apoyo.html`: transcripciones de documentos públicos.
+- `docs/INSPECCION-PUBLICA.md`: rutas, activos, enlaces de música y pendientes.
+
+**Alcance:** reconstrucción estática. No hay panel administrativo, pagos ni reservas inmediatas. La identidad, domicilio y contacto del prestador siguen pendientes en los documentos públicos; por eso las solicitudes y cobros permanecen deshabilitados. No se ha desplegado esta copia.
