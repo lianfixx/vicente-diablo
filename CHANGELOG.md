@@ -16,3 +16,12 @@
 - Archivos: `index.html`.
 - Verificación: escritura en GitHub → confirmada; pruebas de navegador y comparación visual → no ejecutadas.
 - Pendiente: construir rutas de contratación, apoyo, EPK y páginas legales a partir de textos originales completos; recuperar activos originales y validar con el responsable.
+
+
+## 2026-11-12 · Rutas de contratación, apoyo y EPK
+- Agente: ChatGPT (GPT-6)
+- Solicitud: completar la reconstrucción pública del sitio manteniendo los límites de operación observados.
+- Cambios: se añadieron páginas de contratación (prepara un mensaje local a WhatsApp), apoyo (aportes deshabilitados) y EPK (biografía resumida y enlaces a plataformas).
+- Archivos: `contratar.html`, `apoyar.html`, `epk.html`.
+- Verificación: escrituras en GitHub → confirmadas; prueba real de envío/WhatsApp y comparación visual → no ejecutadas.
+- Pendiente: incorporar textos legales originales íntegros, confirmar biografía con artista/equipo, validar formularios y revisar rutas antes de despliegue.
