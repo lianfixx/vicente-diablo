@@ -61,3 +61,12 @@
 - Archivos: `legal-privacidad.html`, `legal-terminos.html`, `legal-apoyo.html`, `index.html`, `apoyar.html`, `contratar.html`.
 - Verificación: escrituras en GitHub → confirmadas; revisión legal independiente y pruebas de navegación → no ejecutadas.
 - Pendiente: confirmar identidad/domicilio/contacto del prestador antes de habilitar solicitudes o cobros; mantener pagos deshabilitados.
+
+
+## 2026-11-12 · README actualizado
+- Agente: ChatGPT (GPT-6)
+- Solicitud: recuperar y documentar los seis sitios web.
+- Cambios: el README enumera los archivos implementados y distingue reconstrucción de fuente original, integraciones desactivadas y pendientes.
+- Archivos: `README.md`.
+- Verificación: actualización en GitHub → confirmada; ejecución de build y comparación visual → no ejecutadas.
+- Pendiente: validar en navegador y completar recuperación de activos originales.
