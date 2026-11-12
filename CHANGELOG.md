@@ -43,3 +43,12 @@
 - Archivos: `docs/INSPECCION-PUBLICA.md`.
 - Verificación: archivo escrito y releído por GitHub → confirmado; auditoría visual independiente → no ejecutada.
 - Pendiente: resolver las fuentes originales, assets y pruebas indicadas en el informe.
+
+
+## 2026-11-12 · Protección de archivos privados
+- Agente: ChatGPT (GPT-6)
+- Solicitud: recuperación y documentación segura de los proyectos.
+- Cambios: se añadió `.gitignore` para excluir entornos, claves, certificados, bases de datos y artefactos privados; `.env.example` contiene solo nombres o comentarios y valores de sustitución ficticios.
+- Archivos: `.gitignore`, `.env.example`.
+- Verificación: archivos escritos en GitHub → confirmados; escaneo automático de secretos → no ejecutado.
+- Pendiente: ejecutar escáner de secretos y configurar variables protegidas si se incorporan integraciones reales.
