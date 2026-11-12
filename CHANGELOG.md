@@ -34,3 +34,12 @@
 - Archivos: `index.html`.
 - Verificación: actualización en GitHub → confirmada; navegación automatizada → no ejecutada.
 - Pendiente: recuperar versiones legales completas y alojarlas localmente solo después de validarlas.
+
+
+## 2026-11-12 · Documentación de inspección pública
+- Agente: ChatGPT (GPT-6)
+- Solicitud: recuperación completa y documentada de los seis proyectos web.
+- Cambios: Inspección de portada, contratación, apoyo, EPK, música, redes, activos y estado deshabilitado de pagos.
+- Archivos: `docs/INSPECCION-PUBLICA.md`.
+- Verificación: archivo escrito y releído por GitHub → confirmado; auditoría visual independiente → no ejecutada.
+- Pendiente: resolver las fuentes originales, assets y pruebas indicadas en el informe.
