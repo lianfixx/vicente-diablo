@@ -52,3 +52,12 @@
 - Archivos: `.gitignore`, `.env.example`.
 - Verificación: archivos escritos en GitHub → confirmados; escaneo automático de secretos → no ejecutado.
 - Pendiente: ejecutar escáner de secretos y configurar variables protegidas si se incorporan integraciones reales.
+
+
+## 2026-11-12 · Documentos legales públicos y navegación local
+- Agente: ChatGPT (GPT-6)
+- Solicitud: recuperar páginas públicas de Vicente Diablo y conservar estado operativo.
+- Cambios: se incorporaron transcripciones del aviso de privacidad, términos de contratación y condiciones del apoyo voluntario (versión 11/09/2026); navegación local desde portada, contratación y apoyo.
+- Archivos: `legal-privacidad.html`, `legal-terminos.html`, `legal-apoyo.html`, `index.html`, `apoyar.html`, `contratar.html`.
+- Verificación: escrituras en GitHub → confirmadas; revisión legal independiente y pruebas de navegación → no ejecutadas.
+- Pendiente: confirmar identidad/domicilio/contacto del prestador antes de habilitar solicitudes o cobros; mantener pagos deshabilitados.
