@@ -25,3 +25,12 @@
 - Archivos: `contratar.html`, `apoyar.html`, `epk.html`.
 - Verificación: escrituras en GitHub → confirmadas; prueba real de envío/WhatsApp y comparación visual → no ejecutadas.
 - Pendiente: incorporar textos legales originales íntegros, confirmar biografía con artista/equipo, validar formularios y revisar rutas antes de despliegue.
+
+
+## 2026-11-12 · Corrección de enlaces legales
+- Agente: ChatGPT (GPT-6)
+- Solicitud: completar la navegación reconstruida sin presentar documentos legales incompletos como definitivos.
+- Cambios: el footer enlaza directamente a las páginas legales vigentes del sitio de origen.
+- Archivos: `index.html`.
+- Verificación: actualización en GitHub → confirmada; navegación automatizada → no ejecutada.
+- Pendiente: recuperar versiones legales completas y alojarlas localmente solo después de validarlas.
