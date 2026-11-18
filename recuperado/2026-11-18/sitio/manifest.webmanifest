@@ -1,0 +1,16 @@
+{
+  "name": "Vicente Diablo · Música en vivo",
+  "short_name": "Vicente Diablo",
+  "description": "Música original, conciertos y eventos privados.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fffdf8",
+  "theme_color": "#d8a82e",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

@@ -41,3 +41,12 @@ Este repositorio contiene una portada estática, EPK resumido, formulario que pr
 6. Mantener donaciones y pagos deshabilitados hasta confirmar proveedor, cuenta beneficiaria, avisos y autorización explícita.
 
 No se ha desplegado esta reconstrucción ni se ha cambiado el dominio canónico.
+
+## Fe de erratas · 18 de noviembre de 2026
+
+Corrección registrada por Claude Code; el texto anterior se conserva sin cambios.
+
+- **Diseño:** el sitio publicado es claro (fondo `#fffdf8`, texto `#263d35`, acento mostaza `#d8a82e`), con titulares en serif del sistema y texto en Avenir Next. El naranja `#FF6700`, el durazno `#FECB8B`, Playfair Display y DM Sans no aparecen en el sitio; pertenecen solo a la reconstrucción de este repositorio.
+- **Activos:** son 9 imágenes; faltaban `vicente-diablo-hero.webp` y `vicente-guitar.webp`.
+- **Pendientes 1 y 3:** cubiertos. Texto legal íntegro y activos con hash en `recuperado/2026-11-18/`.
+- Detalle completo en `docs/AUDITORIA-2026-11-18.md`.
