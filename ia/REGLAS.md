@@ -10,3 +10,7 @@
 - No forzar ni borrar ramas o historial remoto; no saltar controles de seguridad.
 - Registrar cada cambio en `CHANGELOG.md` en el mismo commit, con la línea `Agente:`.
 - Antes de declarar listo, ejecutar las pruebas disponibles y reportar lo no verificable.
+
+## Qué se aplica solo (desde el 25/11/2026)
+
+GitHub corre `python3 ia/verificar.py ci` en cada push y pull request (workflow `control-ia.yml`): el cambio debe actualizar `CHANGELOG.md` con una entrada que traiga la línea `- Agente:`, y lo que agrega no puede traer llaves, contraseñas, CURP, tarjetas ni archivos de credenciales (`.env`, `.pem`, `credentials.json`). Solo revisa lo que el cambio agrega; marca en rojo y no revierte. Lo demás de estas reglas lo cumple cada IA por sí misma. Al empezar con terminal: `python3 ia/verificar.py inicio`.
